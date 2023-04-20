@@ -31,7 +31,8 @@
 -   [Seus primeiros passos no JavaScript](https://youtu.be/OHN8Ze4te70)
 -   [TUDO que você deve estudar de JavaScript antes do React](https://youtu.be/37SwqREHRGI)
 -   [COMEÇANDO NO REACT.JS EM 2022](https://www.youtube.com/watch?v=pDbcC-xSat4&t=502s)
-
+-   [Desbloqueando o "Algoritmo" do Twitter - Introdução a Grafos](https://www.youtube.com/watch?v=uIflMYQnp8A&ab_channel=FabioAkita)
+-   [A História do Front-End para Iniciantes em Programação | Série "Começando aos 40"](https://www.youtube.com/watch?v=VKmPGmFY7H4&ab_channel=FabioAkita)
 ## **🛠️ Canais**
 
 -   [Rocketseat](https://www.youtube.com/@rocketseat)
